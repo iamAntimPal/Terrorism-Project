@@ -47,6 +47,9 @@ This step of the analysis involve answering key questions:
 - What are trends in attack types and weapons used?
 - How do the casualties vary by year in each country?
 
+### this is my power BI project.
+<img scr="Assets\power.png"> 
+
 ### 📊 Data Analysis
 
 1. Initially, the "Terrorism.csv" dataset file contained 135 columns and 181 691 rows, and I had to delete all extraneous columns for analysis, as well as all rows with missing data. After the data cleaning I was only left with 9 rows for my data analysis.
